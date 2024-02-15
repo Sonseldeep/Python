@@ -20,3 +20,19 @@ web development, we will use modules such as Django, Flask, etc.
 csv files, we will use modules such as csv, pandas, etc.
 
 These modules are created by the awesome Python community and are free to use. In this lesson, we will learn to use modules in our program.
+
+Importing Modules:
+
+import math
+inside math module, there are many useful mathematical functions.
+Once we import modules, we can use functions like sqrt()
+
+import math
+
+number = 25
+
+# compute square root
+
+result = math.sqrt(number)
+
+print(result) # 5.0
