@@ -14,7 +14,7 @@
 # 3
 
 def partialInsertion(lst,n):
-  for i in range (1,n):
+  for i in range (1       ,n):
     key = lst[i]
     j = i - 1
     while j >= 0  and key < lst[j]:

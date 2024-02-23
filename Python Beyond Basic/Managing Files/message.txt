@@ -1,0 +1,2 @@
+New message are included and previous is being deleted, is true?Append add text to end of original files without erasing original one 
+Append add text to end of original files without erasing original one 
